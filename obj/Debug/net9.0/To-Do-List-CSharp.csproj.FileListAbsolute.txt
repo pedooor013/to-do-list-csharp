@@ -1,0 +1,14 @@
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\To-Do-List-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\To-Do-List-CSharp.AssemblyInfoInputs.cache
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\To-Do-List-CSharp.AssemblyInfo.cs
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\To-Do-List-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\bin\Debug\net9.0\To-Do-List-CSharp.exe
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\bin\Debug\net9.0\To-Do-List-CSharp.deps.json
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\bin\Debug\net9.0\To-Do-List-CSharp.runtimeconfig.json
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\bin\Debug\net9.0\To-Do-List-CSharp.dll
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\bin\Debug\net9.0\To-Do-List-CSharp.pdb
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\To-Do-List-CSharp.dll
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\refint\To-Do-List-CSharp.dll
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\To-Do-List-CSharp.pdb
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\To-Do-List-CSharp.genruntimeconfig.cache
+C:\Users\Pedro Lopes\To-Do-List-CSharp\To-Do-List-CSharp\obj\Debug\net9.0\ref\To-Do-List-CSharp.dll
